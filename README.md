@@ -1,3 +1,5 @@
+![SafeHome EDU Banner](image.png)
+
 # SafeHome EDU – Smart IoT Security System
 
 ## Overview
